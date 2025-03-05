@@ -1,0 +1,201 @@
+Layout,Ghost Type,Number of Ghosts,Agent,Game,Moves,Score,Outcome
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,1,139,1310,1
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,1,98,1351,1
+smallClassic,RandomGhost,2,MinimaxAgent,1,104,-184,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,1,149,-230,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,1,292,1157,1
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,2,19,-479,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,2,134,1715,1
+smallClassic,RandomGhost,2,MinimaxAgent,2,102,-182,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,2,105,-186,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,2,218,2,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,3,157,-157,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,3,182,1067,1
+smallClassic,RandomGhost,2,MinimaxAgent,3,299,330,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,3,374,-155,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,3,196,-477,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,4,113,56,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,4,105,1344,1
+smallClassic,RandomGhost,2,MinimaxAgent,4,79,-179,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,4,158,-139,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,4,814,-554,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,5,236,3,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,5,150,899,1
+smallClassic,RandomGhost,2,MinimaxAgent,5,188,-158,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,5,318,931,1
+smallClassic,RandomGhost,2,ExpectimaxAgent,5,344,55,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,6,330,510,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,6,11,-471,0
+smallClassic,RandomGhost,2,MinimaxAgent,6,134,-325,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,6,235,-515,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,6,139,61,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,7,53,-393,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,7,133,1716,1
+smallClassic,RandomGhost,2,MinimaxAgent,7,354,-134,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,7,104,-184,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,7,144,116,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,8,116,274,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,8,103,946,1
+smallClassic,RandomGhost,2,MinimaxAgent,8,174,-174,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,8,105,-106,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,8,346,1103,1
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,9,301,278,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,9,126,1323,1
+smallClassic,RandomGhost,2,MinimaxAgent,9,202,847,1
+smallClassic,RandomGhost,2,AlphaBetaAgent,9,147,-427,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,9,350,1299,1
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,10,206,-16,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,10,153,1496,1
+smallClassic,RandomGhost,2,MinimaxAgent,10,291,-372,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,10,195,-276,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,10,484,-425,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,11,170,20,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,11,128,1321,1
+smallClassic,RandomGhost,2,MinimaxAgent,11,150,-30,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,11,74,-104,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,11,66,84,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,12,73,-3,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,12,192,1657,1
+smallClassic,RandomGhost,2,MinimaxAgent,12,147,-227,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,12,419,-400,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,12,69,90,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,13,146,204,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,13,349,1100,1
+smallClassic,RandomGhost,2,MinimaxAgent,13,139,-219,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,13,163,-254,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,13,564,-124,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,14,184,-134,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,14,172,1477,1
+smallClassic,RandomGhost,2,MinimaxAgent,14,217,122,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,14,111,-191,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,14,112,-192,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,15,158,1291,1
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,15,83,1366,1
+smallClassic,RandomGhost,2,MinimaxAgent,15,175,-55,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,15,137,-218,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,15,559,1090,1
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,16,186,403,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,16,270,779,1
+smallClassic,RandomGhost,2,MinimaxAgent,16,83,-163,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,16,145,115,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,16,79,40,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,17,238,591,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,17,310,1539,1
+smallClassic,RandomGhost,2,MinimaxAgent,17,151,-231,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,17,145,-245,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,17,250,-60,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,18,202,-143,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,18,186,1463,1
+smallClassic,RandomGhost,2,MinimaxAgent,18,105,-186,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,18,41,-322,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,18,239,51,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,19,147,1502,1
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,19,272,1577,1
+smallClassic,RandomGhost,2,MinimaxAgent,19,139,-200,0
+smallClassic,RandomGhost,2,AlphaBetaAgent,19,101,18,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,19,1075,-436,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,20,368,471,0
+smallClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,20,188,1461,1
+smallClassic,RandomGhost,2,MinimaxAgent,20,628,621,1
+smallClassic,RandomGhost,2,AlphaBetaAgent,20,254,-35,0
+smallClassic,RandomGhost,2,ExpectimaxAgent,20,274,-75,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,1,213,307,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,1,265,1404,1
+mediumClassic,RandomGhost,2,MinimaxAgent,1,929,90,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,1,159,-240,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,1,3690,-2981,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,2,12,-472,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,2,214,2055,1
+mediumClassic,RandomGhost,2,MinimaxAgent,2,474,235,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,2,14,-365,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,2,1562,-1023,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,3,179,150,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,3,252,1617,1
+mediumClassic,RandomGhost,2,MinimaxAgent,3,606,143,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,3,289,570,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,3,81,68,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,4,286,564,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,4,250,1619,1
+mediumClassic,RandomGhost,2,MinimaxAgent,4,1245,-735,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,4,1335,-826,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,4,963,1106,1
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,5,543,1126,1
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,5,223,706,0
+mediumClassic,RandomGhost,2,MinimaxAgent,5,247,53,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,5,504,-65,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,5,1061,148,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,6,138,201,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,6,213,1856,1
+mediumClassic,RandomGhost,2,MinimaxAgent,6,628,561,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,6,197,292,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,6,190,149,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,7,263,1606,1
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,7,359,1510,1
+mediumClassic,RandomGhost,2,MinimaxAgent,7,1103,-623,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,7,77,-158,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,7,145,295,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,8,359,151,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,8,235,1634,1
+mediumClassic,RandomGhost,2,MinimaxAgent,8,1109,760,1
+mediumClassic,RandomGhost,2,AlphaBetaAgent,8,499,1570,1
+mediumClassic,RandomGhost,2,ExpectimaxAgent,8,218,411,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,9,355,254,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,9,225,1644,1
+mediumClassic,RandomGhost,2,MinimaxAgent,9,11641,-10642,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,9,2116,-1096,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,9,680,-240,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,10,420,1449,1
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,10,271,1598,1
+mediumClassic,RandomGhost,2,MinimaxAgent,10,658,-79,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,10,486,-247,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,10,215,85,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,11,74,155,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,11,626,1443,1
+mediumClassic,RandomGhost,2,MinimaxAgent,11,343,-54,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,11,6123,-5614,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,11,493,247,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,12,224,1445,1
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,12,534,515,0
+mediumClassic,RandomGhost,2,MinimaxAgent,12,177,313,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,12,471,-172,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,12,823,-474,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,13,225,705,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,13,269,741,0
+mediumClassic,RandomGhost,2,MinimaxAgent,13,408,41,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,13,1965,-936,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,13,1144,1125,1
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,14,243,387,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,14,324,1745,1
+mediumClassic,RandomGhost,2,MinimaxAgent,14,948,-269,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,14,3558,-2959,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,14,2188,-1789,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,15,140,710,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,15,234,1635,1
+mediumClassic,RandomGhost,2,MinimaxAgent,15,316,74,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,15,2025,-1186,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,15,1488,-1129,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,16,12,-472,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,16,305,1564,1
+mediumClassic,RandomGhost,2,MinimaxAgent,16,476,-77,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,16,645,425,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,16,2041,-1511,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,17,283,546,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,17,377,1692,1
+mediumClassic,RandomGhost,2,MinimaxAgent,17,74,-154,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,17,543,436,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,17,31,-312,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,18,659,600,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,18,226,1643,1
+mediumClassic,RandomGhost,2,MinimaxAgent,18,1027,-547,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,18,584,-94,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,18,600,1269,1
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,19,182,717,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,19,308,1561,1
+mediumClassic,RandomGhost,2,MinimaxAgent,19,327,112,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,19,2777,-2128,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,19,1200,-181,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=0,20,286,743,0
+mediumClassic,RandomGhost,2,MonteCarloAgent -a enableRandomPolicy=1,20,207,1862,1
+mediumClassic,RandomGhost,2,MinimaxAgent,20,2561,-2152,0
+mediumClassic,RandomGhost,2,AlphaBetaAgent,20,401,8,0
+mediumClassic,RandomGhost,2,ExpectimaxAgent,20,345,-75,0

@@ -1,0 +1,301 @@
+Layout,Ghost Type,Number of Ghosts,Agent,Game,Moves,Score,Outcome
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,1,51,-381,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,2,47,-377,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,3,65,-395,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,4,87,-417,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,5,73,-403,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,6,81,-411,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,7,43,-373,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,8,43,-373,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,9,95,-435,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,10,51,-391,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,11,43,-373,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,12,91,-431,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,13,47,-377,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,14,59,-389,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,15,137,-467,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,16,113,-443,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,17,77,-417,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,18,39,-379,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,19,43,-373,0
+capsuleClassic,DirectionalGhost,1,AlphaBetaAgent,20,67,-397,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,1,471,-222,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,2,172,247,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,3,426,-157,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,4,216,-27,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,5,1398,51,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,6,493,-304,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,7,491,828,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,8,1396,203,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,9,992,-53,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,10,386,1153,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,11,1765,-116,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,12,486,-26,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,13,1655,185,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,14,1759,-420,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,15,930,-331,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,16,1043,406,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,17,825,434,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,18,940,399,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,19,335,-76,0
+originalClassic,RandomGhost,4,AlphaBetaAgent,20,206,-17,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,1,102,328,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,2,68,131,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,3,250,1819,1
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,4,183,956,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,5,66,144,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,6,85,404,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,7,128,561,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,8,221,738,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,9,38,42,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,10,522,-133,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,11,97,192,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,12,177,223,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,13,99,291,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,14,63,316,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,15,139,590,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,16,102,187,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,17,102,477,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,18,126,163,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,19,83,226,0
+mediumClassic,DirectionalGhost,4,AlphaBetaAgent,20,80,210,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,1,43,-373,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,2,35,-375,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,3,149,-479,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,4,103,-433,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,5,39,-379,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,6,65,-405,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,7,59,-389,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,8,57,-387,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,9,43,-373,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,10,123,-453,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,11,85,-415,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,12,155,-485,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,13,43,-373,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,14,65,-395,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,15,43,-373,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,16,55,-385,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,17,67,-407,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,18,71,-401,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,19,43,-373,0
+capsuleClassic,DirectionalGhost,1,ExpectimaxAgent,20,43,-373,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,1,862,217,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,2,885,1254,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,3,915,234,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,4,245,-6,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,5,1348,91,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,6,429,171,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,7,3240,-2061,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,8,1447,-498,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,9,1161,459,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,10,1987,443,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,11,1501,88,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,12,873,366,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,13,839,1610,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,14,1291,588,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,15,933,-214,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,16,2552,-703,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,17,186,3,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,18,670,10,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,19,707,632,0
+originalClassic,RandomGhost,4,ExpectimaxAgent,20,2233,-954,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,1,126,164,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,2,88,201,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,3,307,72,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,4,216,143,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,5,116,444,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,6,160,549,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,7,238,501,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,8,153,356,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,9,397,422,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,10,163,226,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,11,215,644,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,12,153,356,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,13,266,253,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,14,44,76,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,15,310,529,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,16,166,573,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,17,101,319,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,18,72,337,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,19,285,425,0
+mediumClassic,DirectionalGhost,4,ExpectimaxAgent,20,84,205,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,1,43,-373,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,2,51,-381,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,3,35,-375,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,4,35,-375,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,5,43,-373,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,6,103,-433,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,7,59,-389,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,8,97,-427,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,9,59,-389,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,10,101,-431,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,11,35,-375,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,12,43,-373,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,13,51,-381,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,14,69,-399,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,15,67,-397,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,16,43,-373,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,17,65,-395,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,18,69,-399,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,19,43,-373,0
+capsuleClassic,DirectionalGhost,1,MinimaxAgent,20,43,-373,0
+originalClassic,RandomGhost,4,MinimaxAgent,1,2903,-1114,0
+originalClassic,RandomGhost,4,MinimaxAgent,2,875,734,0
+originalClassic,RandomGhost,4,MinimaxAgent,3,2586,-787,0
+originalClassic,RandomGhost,4,MinimaxAgent,4,247,722,0
+originalClassic,RandomGhost,4,MinimaxAgent,5,819,570,0
+originalClassic,RandomGhost,4,MinimaxAgent,6,764,445,0
+originalClassic,RandomGhost,4,MinimaxAgent,7,401,-162,0
+originalClassic,RandomGhost,4,MinimaxAgent,8,1672,-763,0
+originalClassic,RandomGhost,4,MinimaxAgent,9,2894,-1044,0
+originalClassic,RandomGhost,4,MinimaxAgent,10,2735,-886,0
+originalClassic,RandomGhost,4,MinimaxAgent,11,656,1183,0
+originalClassic,RandomGhost,4,MinimaxAgent,12,203,-14,0
+originalClassic,RandomGhost,4,MinimaxAgent,13,710,-521,0
+originalClassic,RandomGhost,4,MinimaxAgent,14,1381,-171,0
+originalClassic,RandomGhost,4,MinimaxAgent,15,2216,-567,0
+originalClassic,RandomGhost,4,MinimaxAgent,16,1293,556,0
+originalClassic,RandomGhost,4,MinimaxAgent,17,1445,604,0
+originalClassic,RandomGhost,4,MinimaxAgent,18,250,-61,0
+originalClassic,RandomGhost,4,MinimaxAgent,19,688,1342,0
+originalClassic,RandomGhost,4,MinimaxAgent,20,196,-366,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,1,38,161,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,2,90,199,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,3,112,277,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,4,117,383,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,5,80,99,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,6,208,791,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,7,136,563,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,8,101,388,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,9,104,185,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,10,111,408,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,11,127,332,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,12,76,393,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,13,103,176,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,14,101,159,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,15,107,312,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,16,100,179,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,17,91,399,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,18,230,1639,1
+mediumClassic,DirectionalGhost,4,MinimaxAgent,19,101,388,0
+mediumClassic,DirectionalGhost,4,MinimaxAgent,20,57,332,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,1,166,963,1
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,2,79,-249,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,3,145,-115,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,4,119,610,1
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,5,78,-479,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,6,77,-77,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,7,77,-207,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,8,121,-492,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,9,34,-335,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,10,90,-461,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,11,63,-73,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,12,34,-335,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,13,101,-71,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,14,172,-543,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,15,116,-517,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,16,110,-511,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,17,34,-335,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,18,148,-229,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,19,114,-515,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=0,20,116,-487,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,1,444,1855,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,2,1251,1048,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,3,1517,1672,1
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,4,563,476,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,5,215,1004,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,6,1210,499,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,7,505,1444,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,8,1641,258,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,9,970,1740,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,10,358,2301,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,11,292,1587,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,12,356,1663,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,13,1324,155,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,14,888,991,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,15,1593,736,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,16,529,2660,1
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,17,69,0,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,18,810,1089,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,19,1509,1020,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=0,20,650,1949,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,1,109,1,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,2,38,-388,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,3,20,-450,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,4,94,-85,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,5,102,108,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,6,12,-472,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,7,97,402,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,8,40,-350,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,9,111,68,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,10,42,-63,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,11,14,-474,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,12,102,67,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,13,155,434,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,14,14,-455,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,15,89,-19,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,16,13,-464,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,17,18,-449,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,18,60,-11,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,19,141,348,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=0,20,75,-15,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,1,73,-173,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,2,309,620,1
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,3,123,1206,1
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,4,83,-173,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,5,86,-186,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,6,71,-181,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,7,103,1026,1
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,8,133,996,1
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,9,285,5,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,10,203,726,1
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,11,101,-201,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,12,65,1064,1
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,13,98,12,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,14,240,-120,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,15,78,-188,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,16,41,-241,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,17,83,17,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,18,137,173,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,19,99,-99,0
+capsuleClassic,DirectionalGhost,1,MonteCarloAgent -a enableRandomPolicy=1,20,91,-1,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,1,1336,2253,1
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,2,368,1802,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,3,354,1375,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,4,797,2052,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,5,755,1584,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,6,290,1139,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,7,1338,1851,1
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,8,465,1344,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,9,751,1159,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,10,811,998,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,11,601,1918,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,12,703,1976,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,13,281,1628,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,14,171,268,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,15,320,1419,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,16,708,1391,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,17,276,1083,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,18,1127,1582,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,19,1180,1149,0
+originalClassic,RandomGhost,4,MonteCarloAgent -a enableRandomPolicy=1,20,372,1227,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,1,226,1643,1
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,2,101,209,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,3,178,1071,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,4,143,1726,1
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,5,156,993,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,6,38,-238,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,7,167,1902,1
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,8,211,778,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,9,73,276,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,10,236,1833,1
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,11,218,1851,1
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,12,30,-421,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,13,192,1677,1
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,14,43,-273,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,15,140,779,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,16,83,186,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,17,113,227,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,18,201,778,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,19,130,730,0
+mediumClassic,DirectionalGhost,4,MonteCarloAgent -a enableRandomPolicy=1,20,184,855,0
